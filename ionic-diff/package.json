@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@ionic/angular": "^8.0.0"
+    "@ionic/angular": "^8.0.1"
   }
 }
